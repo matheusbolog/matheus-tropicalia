@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #4ebe57;
+    --laranja-claro: #FF862A;
 }
 
 body {
@@ -27,7 +27,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('/tmp/guest-0erlhv/Área de Trabalho/matheus-tropicalia-main/Reuniao-tropicalista.-No-alto-Caetano-Torquato-Neto-e-Rita-Lee-no-meio-Tom-Ze-Glauber-Rocha-Rogerio-Duprat-e-Gil-abaixo-Helio-Oiticica-Jose-Celso-Martinez-Correa-e-GaTropicalia.jpg');
+    background-image: url('img/4965007.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -131,7 +131,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #43cb65;
+    background-color: #CB6D43;
     border: none;
     font-weight: bold;
 }
