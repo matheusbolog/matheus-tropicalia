@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #4ebe57;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #bd3030;
 }
 
 
@@ -21,13 +21,13 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #63cb43;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('/tmp/guest-0erlhv/Área de Trabalho/matheus-tropicalia-main/Reuniao-tropicalista.-No-alto-Caetano-Torquato-Neto-e-Rita-Lee-no-meio-Tom-Ze-Glauber-Rocha-Rogerio-Duprat-e-Gil-abaixo-Helio-Oiticica-Jose-Celso-Martinez-Correa-e-GaTropicalia.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -102,7 +102,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #c42222;
 
 }
 
@@ -120,7 +120,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #d62a2a;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -131,12 +131,12 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #43cb65;
     border: none;
     font-weight: bold;
 }
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #ffffff;
 }
